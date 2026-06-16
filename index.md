@@ -1,7 +1,18 @@
 ---
 title: Home
 layout: home
+nav_layout: 1
 ---
+
+# Data and Digital Scholarship Workshop Series: Git and GitHub
+
+Welcome to Hamilton Library's Data and Digital Scholarship Fall 26 workshop series! This site will serve as a landing spot for all related sessions. 
+
+## About the workshop series
+
+This workshop series is intended to introduce you to Git and GitHub and their potential applications. It is styled as a "choose your own adventure" - feel free to attend as many or as little sessions as you wish. If you are a beginner, we do recommend you attend the introductory session. 
+
+## Workshop sessions
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
