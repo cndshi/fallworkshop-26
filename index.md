@@ -18,9 +18,9 @@ This workshop series is intended to introduce you to Git and GitHub and their po
 
 **Choose one or both of the following sessions** 
 
-*Data-related Github Workshop
+* Data-related Github Workshop
 
-*Digital Exhibit/Multimedia Website Workshop
+* Digital Exhibit/Multimedia Website Workshop
 
 
 ----
