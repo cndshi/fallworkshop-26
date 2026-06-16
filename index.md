@@ -14,7 +14,9 @@ This workshop series is intended to introduce you to Git and GitHub and their po
 
 ## Workshop sessions
 
-**START HERE** Introduction to Git and GitHub
+**START HERE** 
+
+* Introduction to Git and GitHub
 
 **Choose one or both of the following sessions** 
 
