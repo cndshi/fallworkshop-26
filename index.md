@@ -16,11 +16,11 @@ This workshop series is intended to introduce you to Git and GitHub and their po
 
 **START HERE** Introduction to Git and GitHub
 
-**Choose one or any of the following sessions** 
+**Choose one or both of the following sessions** 
 
-Data-related Github Workshop
-Digital Exhibit/Multimedia Website Workshop
+*Data-related Github Workshop
 
+*Digital Exhibit/Multimedia Website Workshop
 
 
 ----
