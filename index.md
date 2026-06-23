@@ -16,7 +16,7 @@ This workshop series is intended to introduce you to Git and GitHub and their po
 
 **START HERE** 
 
-* Introduction to Git and GitHub
+* [Introduction to Git and GitHub] (https://cndshi.github.io/fallworkshop-26/introworkshop.html)
 
 **Choose one or both of the following sessions** 
 
