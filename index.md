@@ -22,7 +22,7 @@ This workshop series is intended to introduce you to Git and GitHub and their po
 
 * Data-related Github Workshop
 
-* Digital Exhibit/Multimedia Website Workshop
+* [Digital Exhibit/Multimedia Website Workshop](https://cndshi.github.io/fallworkshop-26/collectionbuilder.html)
 
 
 ----
