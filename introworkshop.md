@@ -1,7 +1,7 @@
 ---
 title: Introduction to Git and Github
 layout: home
-nav_layout: 2
+nav_order: 2
 ---
 
 # Introduction to Git and Github
