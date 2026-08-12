@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home
-nav_layout: 1
+nav_order: 1
 ---
 
 # Data and Digital Scholarship Workshop Series: Git and GitHub
