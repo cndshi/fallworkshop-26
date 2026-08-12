@@ -1,7 +1,7 @@
 ---
 title: Digital Exhibit/Multimedia Exhibit (Collection Builder)
 layout: home
-nav_layout: 4
+nav_order: 3
 ---
 
 # Digital Exhibit/Multimedia Exhibit (Collection Builder)
